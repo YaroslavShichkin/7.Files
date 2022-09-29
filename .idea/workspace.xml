@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c53bc7c7-bb2f-4ad1-90c5-5d7f3c911451" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Files/recipes_2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files_2/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files_2/2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files_2/3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files_2/all.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files_2/И что-то еще.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files_2/Что-то.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_1-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task_1-2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +35,7 @@
     "last_opened_file_path": "C:/Python/Files/7.Files"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Task_1-2">
+  <component name="RunManager" selected="Python.Task_3">
     <configuration name="Task_1-2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="files" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -44,6 +49,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task_1-2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Task_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="files" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\yrilk\PycharmProjects\firstProject\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -74,11 +100,13 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.Task_3" />
       <item itemvalue="Python.main" />
       <item itemvalue="Python.Task_1-2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Task_3" />
         <item itemvalue="Python.Task_1-2" />
         <item itemvalue="Python.main" />
       </list>
